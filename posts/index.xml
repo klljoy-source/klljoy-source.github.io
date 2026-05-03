@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Polina Batalova</title>
+    <link>https://klljoy-source.github.io/posts/</link>
+    <description>Recent content in Posts on Polina Batalova</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0300</lastBuildDate>
+    <atom:link href="https://klljoy-source.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas Irasas</title>
+      <link>https://klljoy-source.github.io/posts/pirmas-irasas/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0300</pubDate>
+      <guid>https://klljoy-source.github.io/posts/pirmas-irasas/</guid>
+      <description>&lt;p&gt;Tai yra mano pirmas Hugo tinklalapio įrašas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
