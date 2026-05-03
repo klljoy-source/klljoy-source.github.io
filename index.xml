@@ -6,14 +6,21 @@
     <description>Recent content on Polina Batalova</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 01:32:19 +0300</lastBuildDate>
     <atom:link href="https://klljoy-source.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie</title>
+      <link>https://klljoy-source.github.io/apie/</link>
+      <pubDate>Mon, 04 May 2026 01:32:19 +0300</pubDate>
+      <guid>https://klljoy-source.github.io/apie/</guid>
+      <description>&lt;p&gt;Tai yra apie puslapis.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pirmas Irasas</title>
       <link>https://klljoy-source.github.io/posts/pirmas-irasas/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0300</pubDate>
       <guid>https://klljoy-source.github.io/posts/pirmas-irasas/</guid>
-      <description>&lt;p&gt;Tai yra mano pirmas Hugo tinklalapio įrašas.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Tai yra mano pirmas Hugo tinklalapio įrašas.&lt;/p&gt;&#xA;&lt;h2 id=&#34;testing-image&#34;&gt;Testing Image&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://klljoy.github.io/images/test-image.png&#34; alt=&#34;Test Image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;code-example&#34;&gt;Code example&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello from Hugo!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;True&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
